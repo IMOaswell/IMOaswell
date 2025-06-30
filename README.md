@@ -2,6 +2,13 @@
 
 [![Main Github Account](https://img.shields.io/badge/Main%20Github%20Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOitself)
 
+| stats                                    |
+| :---------------------------------------: |
+🔥 daily streak: 0 days
+❤️ total contributions: 0
+
+<br>
+
 **Socials**
 
 [![Facebook](https://img.shields.io/badge/Imo%20Dump-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083333136200)
