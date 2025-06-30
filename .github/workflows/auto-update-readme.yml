@@ -15,6 +15,6 @@ jobs:
   call-after-readme-workflow:
     uses: IMOitself/AfterReadme/.github/workflows/after-readme.yml@master
     with:
-      username: 'IMOitself'
+      username: 'IMOaswell'
     secrets:
       GH_PAT: ${{ secrets.GH_PAT }}
