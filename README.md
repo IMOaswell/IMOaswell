@@ -4,8 +4,8 @@
 
 | stats                                    |
 | :---------------------------------------: |
-🔥 daily streak: 0 days
-❤️ total contributions: 0
+🔥 daily streak: 0 days<sup>`update now`</sup>
+❤️ total contributions: null
 
 <br>
 
