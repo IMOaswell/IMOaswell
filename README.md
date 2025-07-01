@@ -5,7 +5,7 @@
 | stats                                    |
 | :---------------------------------------: |
 🔥 daily streak: 0 days<sup>`update now`</sup>
-❤️ total contributions: 519
+❤️ total contributions: 0
 
 <br>
 
