@@ -2,11 +2,6 @@
 
 [![Main Github Account](https://img.shields.io/badge/Main%20Github%20Account-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMOitself)
 
-| stats                                    |
-| :---------------------------------------: |
-🔥 daily streak: 0 days<sup>`update now`</sup>
-❤️ total contributions: 0
-
 <br>
 
 **Socials**
